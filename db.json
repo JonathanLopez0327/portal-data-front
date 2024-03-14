@@ -1,0 +1,84 @@
+{
+  "consumer": [
+    {
+      "arragmentId": "AA232020DVYX",
+      "CustomerNumber": 5865999,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232020F7NT",
+      "CustomerNumber": 5515777,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232020HWY8",
+      "CustomerNumber": 5642043,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232020K36N",
+      "CustomerNumber": 5549377,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232020K6K5",
+      "CustomerNumber": 5701357,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232020KFR8",
+      "CustomerNumber": 5679478,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232020KM2T",
+      "CustomerNumber": 6286909,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA2320212SHP",
+      "CustomerNumber": 6467601,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA2320216S15",
+      "CustomerNumber": 5628636,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA2320218KD6",
+      "CustomerNumber": 5666538,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232021BJY7",
+      "CustomerNumber": 5765633,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232021BMHX",
+      "CustomerNumber": 5910277,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA2320229VMV",
+      "CustomerNumber": 5516382,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232022FYH6",
+      "CustomerNumber": 5548268,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA232022L3NW",
+      "CustomerNumber": 5682697,
+      "loanType": "ADQ.VIVIENDA"
+    },
+    {
+      "arragmentId": "AA2320234K2T",
+      "CustomerNumber": 5802725,
+      "loanType": "ADQ.VIVIENDA"
+    }
+  ]
+}
