@@ -6,8 +6,11 @@ import DataTable from "./components/DataTable.vue";
 <template>
   <v-app>
     <Header />
-    <v-container>
-      <DataTable />
+
+    <v-container class="mt-15">
+      <v-col>
+        <DataTable />
+      </v-col>
     </v-container>
   </v-app>
 </template>

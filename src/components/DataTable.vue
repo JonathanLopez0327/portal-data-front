@@ -1,18 +1,15 @@
 <template>
-  <v-card>
-    <v-card-title>
-      Nitido
+  <v-card class="elevation-1 mx-auto">
+    <v-card-title class="d-flex align-center pe-2">
+      Data
       <v-spacer></v-spacer>
-      <v-text-field
-        v-model="search"
-        label="Buscar"
-        @input="filterTable"
-        hide-details
-        single-line
-        append-icon="search"
-      ></v-text-field>
+      <v-text-field v-model="search" label="Buscar" @input="filterTable" density="compact"
+        prepend-inner-icon="mdi-magnify" variant="solo-filled" flat hide-details single-line></v-text-field>
     </v-card-title>
-    <v-data-table :items="filteredItems" :search="search" :headers="headers" style="background-color: #f5f5f5;"></v-data-table>
+
+    <v-data-table :items="filteredItems" :search="search" :headers="headers">
+
+    </v-data-table>
   </v-card>
 </template>
 
